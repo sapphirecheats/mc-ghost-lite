@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "minVersion": "0.7.11",
+  "package": "ac.sapphire.client.mixin",
+  "refmap": "mixins.sapphire.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "entity.EntityLivingBaseMixin",
+    "entity.EntityMixin",
+    "entity.EntityRendererMixin",
+    "entity.RendererLivingEntityMixin",
+    "gui.IPlayerTabOverlayAccessor",
+    "network.NetworkManagerMixin",
+    "packet.IVelocityPacketAccessor",
+    "render.RenderPlayerMixin"
+  ],
+  "client": [
+    "bind.IKeyBindAccessor",
+    "client.MinecraftMixin",
+    "entity.EntityPlayerSPMixin",
+    "entity.IEntityRendererAccessor",
+    "entity.IRenderManagerAccessor",
+    "gui.GuiIngameForgeMixin",
+    "gui.GuiMainMenuMixin",
+    "network.INetHandlerPlayClientAccessor"
+  ]
+}

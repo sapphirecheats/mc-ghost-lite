@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "sapphire",
+    "name": "Sapphire",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://sapphire.ac",
+    "updateUrl": "",
+    "authorList": ["Starlight Technology LLC"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
