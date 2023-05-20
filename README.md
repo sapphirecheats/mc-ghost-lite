@@ -8,7 +8,7 @@ Note: This project was originally written in early 2022 and was a scrapped proje
 ## About our other products
 If you would like to try our paid software, check out our site [here](https://sapphire.ac) or our discord [here](https://discord.sapphire.ac).
 
-All of our free software is developed with the community in mind to either supply free alternatives or a way to introduce new developers to a useful code environment. With that being said, we have to sustain ourselves so the free products we release are very limited so checking out our paid software is much appreciated.
+We deeply value interest in our products. While we do offer limited functionality in our free software, we encourage users to explore our paid options to unlock the premium experiences we offer. Your support allows us to continue developing innovative solutions and maintain our commitment to quality.
 
 ## Disclaimer
 This client was NOT written with the intent of fully bypassing servers, although it has unique features it is not going to get updates or bug fixes.
